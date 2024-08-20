@@ -4,3 +4,12 @@ body {
     background-color: rgb(0, 5, 5);
     -webkit-text-fill-color: rgb(16, 175, 101);
 } 
+
+header{
+    background-color: brown;
+
+}
+
+.history {
+    background-color: blue;
+}
